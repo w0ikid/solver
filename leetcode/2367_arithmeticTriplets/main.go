@@ -1,3 +1,6 @@
-func arithmeticTriplets(nums []int, diff int) int {
-	return 0
-}
+package main
+
+
+// func arithmeticTriplets(nums []int, diff int) int {
+// 	return 0
+// }

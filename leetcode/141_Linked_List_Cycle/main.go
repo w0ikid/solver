@@ -1,14 +1,14 @@
 package main
 
-type ListNode struct {
-	Val int
-	Next *ListNode
-}
+// type ListNode struct {
+// 	Val int
+// 	Next *ListNode
+// }
 
-func hasCycle(head *ListNode) bool {
+// func hasCycle(head *ListNode) bool {
 	
-}
+// }
 
-func main(){
+// func main(){
 
-}
+// }

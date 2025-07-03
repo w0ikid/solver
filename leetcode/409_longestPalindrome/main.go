@@ -1,7 +1,7 @@
 package main
 
-import "strings"
+// import "strings"
 
-func longestPalindrome(s string) int {
-    letters := make()
-}
+// func longestPalindrome(s string) int {
+//     letters := make()
+// }
